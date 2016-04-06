@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cobalt Techno]]></title>
         <description><![CDATA[Cobalt Techno]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cobalt-techno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 14:43:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 14:43:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cobalt-techno/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Custom App Development from North Wales</p>]]></description>
+            <link>https://thegrid.ai/cobalt-techno/app-and-website-development-from-north-wales/index.html</link>
+            <guid isPermaLink="false">591710b7-8c12-4d91-bf79-dc52a7e10f51</guid>
+            <pubDate>Wed, 06 Apr 2016 14:43:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0e4e17d-ed8b-4ddd-8169-f6de1da2ddc7.png">]]></description>
-            <link>undefinedfcbcbc75-2991-4f5b-aba8-d0db7ddb94d5/index.html</link>
+            <link>https://thegrid.ai/cobalt-techno/fcbcbc75-2991-4f5b-aba8-d0db7ddb94d5/index.html</link>
             <guid isPermaLink="false">fcbcbc75-2991-4f5b-aba8-d0db7ddb94d5</guid>
             <pubDate>Wed, 06 Apr 2016 14:43:48 GMT</pubDate>
         </item>
